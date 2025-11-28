@@ -1,10 +1,29 @@
 # Scout: Source Code Open for Universal Testing
-
-![image](https://github.com/user-attachments/assets/9592e1bc-5cd9-4afe-9ba0-6ac0ac2a2c65)
+scout_backend/
+├── .husky/
+│   └── _
+├── src/
+│   ├── config/
+│   ├── controllers/
+│   ├── middlewares/
+│   ├── models/
+│   ├── routes/
+│   │   └── v1/
+│   ├── services/
+│   ├── utils/
+│   ├── validations/
+│   └── server.js
+├── .babelrc
+├── .gitignore
+├── .prettierrc
+├── README.md
+├── eslint.config.js
+├── package-lock.json
+└── package.json
 
 ## WorkFlow of database
+<img width="1886" height="595" alt="image" src="https://github.com/user-attachments/assets/8c6de8da-ef9c-4908-ad2c-ff7dbf684f1e" />
 
-![Screenshot 2025-01-05 234949](https://github.com/user-attachments/assets/3da3efd7-496d-4d32-b146-dee82e17ddd1)
 # README
 
 ## Table of Contents  
