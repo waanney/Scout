@@ -1,0 +1,69 @@
+[
+  {
+    "language": "C",
+    "aliases": ["c"]
+  },
+  {
+    "language": "C#",
+    "aliases": ["csharp"]
+  },
+  {
+    "language": "C++",
+    "aliases": ["cpp"]
+  },
+  {
+    "language": "CSS",
+    "aliases": ["css"]
+  },
+  {
+    "language": "HTML",
+    "aliases": [
+      "html",
+      "xml",
+      "xhtml",
+      "rss",
+      "atom",
+      "xjb",
+      "xsd",
+      "xsl",
+      "plist",
+      "svg"
+    ]
+  },
+  {
+    "language": "JSON",
+    "aliases": ["json", "jsonc"]
+  },
+  {
+    "language": "Java",
+    "aliases": ["java", "jsp"]
+  },
+  {
+    "language": "JavaScript",
+    "aliases": ["javascript", "js", "jsx"]
+  },
+  {
+    "language": "PHP",
+    "aliases": ["php"]
+  },
+  {
+    "language": "PowerShell",
+    "aliases": ["powershell"]
+  },
+  {
+    "language": "Python",
+    "aliases": ["python"]
+  },
+  {
+    "language": "Ruby",
+    "aliases": ["ruby"]
+  },
+  {
+    "language": "SQL",
+    "aliases": ["sql"]
+  },
+  {
+    "language": "TypeScript",
+    "aliases": ["typescript"]
+  }
+]
