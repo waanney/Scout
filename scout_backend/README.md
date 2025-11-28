@@ -1,4 +1,5 @@
 # Scout: Source Code Open for Universal Testing
+```text
 scout_backend/
 ├── .husky/
 │   └── _
@@ -20,7 +21,7 @@ scout_backend/
 ├── eslint.config.js
 ├── package-lock.json
 └── package.json
-
+```
 ## WorkFlow of database
 <img width="1886" height="595" alt="image" src="https://github.com/user-attachments/assets/8c6de8da-ef9c-4908-ad2c-ff7dbf684f1e" />
 
