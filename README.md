@@ -4,7 +4,7 @@
 
 A full-stack collaborative code sharing and discussion platform that allows users to share source code, collaborate in real-time, and discuss programming concepts. 
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Project Overview](#project-overview)
 - [Features](#features)
@@ -16,7 +16,7 @@ A full-stack collaborative code sharing and discussion platform that allows user
 - [Development Guide](#development-guide)
 - [API Documentation](#api-documentation)
 
-## 🎯 Project Overview
+## Project Overview
 
 **Scout** is a comprehensive platform for developers to:
 - Share and showcase source code snippets
@@ -29,7 +29,7 @@ The project consists of two main applications:
 1. **scout_backend** - Node.js/Express REST API server
 2. **scout_frontend** - React-based web interface
 
-## ✨ Features
+##  Features
 
 ### Backend Features
 - User authentication (Login, Register, Logout)
@@ -49,7 +49,7 @@ The project consists of two main applications:
 - React Router for navigation
 - Tailwind CSS styling
 
-## 🏗️ Architecture
+##  Architecture
 
 The application follows a monorepo structure with separated frontend and backend:
 
@@ -92,7 +92,7 @@ Scout/
 - **UI Components:** Headless UI, Heroicons, Lucide React
 - **3D Graphics:** Three.js, React Three Fiber
 
-## 📁 Project Structure
+##  Project Structure
 
 ### Backend Structure
 ```
@@ -134,7 +134,7 @@ scout_frontend/
 └── package.json
 ```
 
-## 💻 Installation & Setup
+##  Installation & Setup
 
 ### Prerequisites
 - Node.js v23.4.0 or higher
@@ -189,7 +189,7 @@ Configure your environment variables:
 - `VITE_API_URL` - Backend API URL (default: http://localhost:8017)
 - `VITE_SOCKET_URL` - WebSocket server URL
 
-## 🚀 Running the Application
+##  Running the Application
 
 ### Development Mode
 
@@ -223,7 +223,7 @@ npm run build        # Build optimized version
 npm run preview      # Preview production build
 ```
 
-## 👨‍💻 Development Guide
+##  Development Guide
 
 ### Code Quality Tools
 
@@ -313,7 +313,7 @@ Authorization: Bearer <token>
 - `socket.emit('newComment')` - Broadcast new comment
 - `socket.emit('userOnline')` - Notify user online
 
-## 📦 Dependencies Overview
+##  Dependencies Overview
 
 ### Critical Backend Dependencies
 - **express** - Web framework
@@ -332,7 +332,7 @@ Authorization: Bearer <token>
 - **tailwindcss** - Utility CSS framework
 - **@monaco-editor/react** - Code editor component
 
-## 🐛 Troubleshooting
+##  Troubleshooting
 
 ### Backend Issues
 
@@ -359,7 +359,7 @@ npm install
 - Ensure backend is running
 - Check `VITE_API_URL` in `. env`
 
-## 📝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
@@ -367,19 +367,19 @@ npm install
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
+##  License
 
 This project is licensed under the ISC License. 
 
-## 👤 Author
+##  Author
 
 **Scout Development Team**
 - Repository: [waanney/Scout](https://github.com/waanney/Scout)
 
-## 📞 Support
+##  Support
 
 For issues, questions, or suggestions, please open an issue on the GitHub repository.
 
 ---
 
-**Happy Coding!  🚀**
+**Happy Coding!  **
