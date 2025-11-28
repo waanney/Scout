@@ -65,4 +65,28 @@ Instructions on how to run the application. For example:
 
 ## Project Structure  
 
-![Screenshot 2025-01-10 224825](https://github.com/user-attachments/assets/7f6fe76d-394f-4e9c-812a-bafb4110b5a3)
+scout_frontend/
+├── .husky/
+├── src/
+│   ├── api/
+│   │   ├── commentRatingApi.js
+│   │   └── index.js
+│   ├── assets/
+│   ├── components/
+│   ├── configs/
+│   ├── hooks/
+│   ├── pages/
+│   ├── redux/
+│   ├── services/
+│   ├── states/
+│   └── utils/
+├── .gitignore
+├── .prettierrc
+├── README.md
+├── eslint.config.js
+├── index.html
+├── package-lock.json
+├── package.json
+├── postcss.config.js
+├── tailwind.config.js
+└── vite.config.js
